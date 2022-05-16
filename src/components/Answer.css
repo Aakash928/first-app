@@ -1,0 +1,10 @@
+.body{
+    margin: 0;
+    padding: 0;
+}
+li{
+    margin-left: 50px;
+}
+.dot{
+    list-style: circle;
+}
